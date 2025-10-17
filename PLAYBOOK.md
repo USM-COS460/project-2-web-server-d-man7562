@@ -10,8 +10,8 @@ This project is written in python on Windows 10.
 python is an interpreted language, so it does not need to compile.
 
 ## How to run
-
-py httpserver <PORT> <dir>
+in Terminal:
+py httpserver PORT <ir
 
 ## My experience with this project
 
