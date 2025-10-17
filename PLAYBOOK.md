@@ -1,18 +1,18 @@
 ## COS 460/540 - Computer Networks
 # Project 2: HTTP Server
 
-# <<YOUR NAME>>
+# Domenic Mancuso
 
-This project is written in <<LAUNGUAGE USED>> on <<OPERATING SYSTEM>>.
+This project is written in python on Windows 10.
 
 ## How to compile
 
-Fill in here on how to compile or assemble your project. Remember you must not include any binary (precompiled) files.
+python is an interpreted language, so it does not need to compile.
 
 ## How to run
 
-Fill in here how to run or execute your project.
+py httpserver <PORT> <dir>
 
 ## My experience with this project
 
-Fill in here a brief summary of your experience with the project. What did you learn?
+I learned the usage of http requests, I got to use threading, and I was able to experience running a HTML project. I do not create web prages so this was a good experience.  
